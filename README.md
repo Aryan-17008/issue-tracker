@@ -1,4 +1,4 @@
-# 🎯 Anime Issue Tracker
+# 🎯 Issue Tracker
 
 A beautiful, anime-themed issue tracking application built with React, TypeScript, and Vite.
 
@@ -8,7 +8,7 @@ A beautiful, anime-themed issue tracking application built with React, TypeScrip
 
 ## ✨ Features
 
-- 🎨 **7 Anime Themes** - Naruto, Demon Slayer, Sailor Moon, Ghibli, One Piece, Berserk, Pac-Man
+- 🎨 **7 Custom Themes** 
 - 📝 **Full CRUD** - Create, read, update, and delete issues
 - 🔍 **Search & Filter** - Search by title/description, filter by status
 - 📊 **Priority Levels** - Low, Medium, High with color badges
